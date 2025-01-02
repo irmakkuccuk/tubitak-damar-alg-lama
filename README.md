@@ -1,2 +1,2 @@
-# tubitak-damar-alg-lama
+# tubitak-damar-algılama
 tübitak projesi
